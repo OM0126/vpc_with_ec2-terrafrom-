@@ -535,7 +535,7 @@ Possible enhancements:
 
 ---
 
-## What We Did in This Project
+
 # What We Did in This Project
 
 * Configured AWS CLI and authenticated with AWS account.
